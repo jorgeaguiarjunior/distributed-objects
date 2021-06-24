@@ -1,0 +1,15 @@
+Procedural:
+Process exited after 3.726 seconds with return value 0
+Pressione qualquer tecla para continuar. . .
+
+Threads:
+Process exited after 2.036 seconds with return value 0
+Pressione qualquer tecla para continuar. . .
+
+________________________________________________________
+
+Diferença de 1,69 segundos
+45% Mais rapido
+
+Ou precisamente:
+45,356951154052603327965646806227% de beneficio.
