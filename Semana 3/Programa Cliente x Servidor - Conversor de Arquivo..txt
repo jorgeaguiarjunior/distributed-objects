@@ -1,0 +1,5 @@
+Faça um programa Cliente x Servidor onde o cliente envie um arquivo TXT ao Servidor e este retorne o arquivo TXT convertido em Maiúscula. 
+
+Faça o teste com múltiplos clientes e um servidor. 
+
+Caso você tenha mais um um computador, faça o teste de um computador cliente diferente do servidor. 
