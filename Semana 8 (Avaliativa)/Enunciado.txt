@@ -1,0 +1,19 @@
+Segunda Avaliação - Vídeo sobre o Funcionamento do RMI (Presença Semana 7 e 8)
+
+Segunda Avaliação - Vídeo sobre o Funcionamento do RMI (Presença Semana 7 e 8)
+
+- Fazer um vídeo (publicado no Youtube) onde demostra a utilização de Chamadas RMI (Corba, CPS, RMI, etc). 
+
+- Você deve apresentar dois consoles, cada uma com um Gráfico de CPU, e apresentar a chamada de procedimento remoto (mostrando a execução remota) comprovado pelo gráfico de utilização de CPU. 
+
+- O Algoritmo Remoto deverá receber dois valores e retornar:
+
+- Quantidade de pares no Intervalo. 
+
+- Quantidade de ímpares no Intervalo. 
+
+- Quantidade de Número Primos contido no Intervalo (para cada valor do intervalo, verificar se é um numero primo). 
+
+- Quantidade de Número Compostos no intervalo (Calcular sempre a intervalo).
+
+-  Quantidade de números perfeitos no intervalo.

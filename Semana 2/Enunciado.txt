@@ -1,5 +1,3 @@
-Programação usando Threads - medição de tempo.
-
 Programação usando Threads - medição de tempo: 
 
 Faça um programa sequencial que:
