@@ -1,0 +1,4 @@
+Trabalho Final
+• Fazer um programa MPI que leia um arquivo de dicionário e conte as palavras palíndromos. 
+• Você deverá executar uma versão seqüencial e estimar o tempo. Depois deverá executar uma versão distribuída e verificar qual é o numero ideal de processos para aumentar o desempenho. 
+• O programa deverá retornar a quantidade de palavras palíndromos (e quais.).
